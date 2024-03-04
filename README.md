@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedrowilian
-- 👀 I’m interested in games and programming
-- 🌱 I’m currently learning CS50 free course from Harvard
-- 💞️ I’m looking to collaborate on any type of coding projects that aren't too complex
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me via instagram @pedrowilian__ or gmail pedrowbevilacqua@gmail.com
