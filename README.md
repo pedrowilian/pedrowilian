@@ -34,7 +34,7 @@
   <img alt="LLMs" src="https://img.shields.io/badge/Large%20Language%20Models-2E77BC?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-7A1FA2?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 <p align="left">
