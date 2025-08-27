@@ -6,43 +6,41 @@
 
 ---
 
-## 🚀 Skills & Technologies
-
-### 💡 Core Skills
-- **Data Science & Analytics**: Data preprocessing, feature engineering, exploratory data analysis (EDA)  
-- **Machine Learning**: Classification, clustering, regression, hyperparameter tuning (XGBoost, RandomForest, K-Means)  
-- **Deep Learning & AI**: Neural Networks, CNNs, LLMs, Generative AI, RAG (Retrieval-Augmented Generation), Fine-Tuning  
-- **Software Development**: Object-oriented programming, algorithms, and data structures in **Java, C and Python**
-
 ### 🛠️ Tools & Frameworks
 
+#### Core Languages
 <p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
+#### Machine Learning & AI
 <p align="left">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=azuremachinelearning&logoColor=white" />
-  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge&logo=openaigym&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-6B40C1?style=for-the-badge&logo=tesla&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0081A5?style=for-the-badge&logo=ifixit&logoColor=white" alt="AI Agents" />
 </p>
 
+#### ML Frameworks & Libraries
 <p align="left">
-  <img alt="LLMs" src="https://img.shields.io/badge/Large%20Language%20Models-2E77BC?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-7A1FA2?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
+#### DevOps & Tools
 <p align="left">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" />
-  <img alt="Database" src="https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=firebase&logoColor=white" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="Database" />
 </p>
 
 
