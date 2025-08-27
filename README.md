@@ -42,6 +42,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img alt="Database" src="https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 
