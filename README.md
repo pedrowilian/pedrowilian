@@ -15,24 +15,34 @@
 - **Software Development**: Object-oriented programming, algorithms, and data structures in **Java, C and Python**
 
 ### 🛠️ Tools & Frameworks
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=azuremachinelearning&logoColor=white" />
-<img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge&logo=openaigym&logoColor=white" />
-<img alt="LLMs" src="https://img.shields.io/badge/Large%20Language%20Models-2E77BC?style=for-the-badge&logo=openai&logoColor=white" />
-<img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-7A1FA2?style=for-the-badge&logo=robotframework&logoColor=white" />
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-<img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<p align="left">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=azuremachinelearning&logoColor=white" />
+  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge&logo=openaigym&logoColor=white" />
+</p>
+
+<p align="left">
+  <img alt="LLMs" src="https://img.shields.io/badge/Large%20Language%20Models-2E77BC?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-7A1FA2?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+<p align="left">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" />
+</p>
 
 
 ---
