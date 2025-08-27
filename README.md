@@ -1,12 +1,25 @@
-# 👋 Hi, I'm Pedro Wilian
+# 👋 Hello, I'm Pedro Wilian
 
-🎓 Computer Engineering student at **IMT - Instituto Mauá de Tecnologia (Brazil)**  
-📊 Focused on **Data Science, Machine Learning, and Artificial Intelligence**  
-🤖 Passionate about **data, AI, automation, and intelligent solutions** that transform information into real value  
+🎓 Computer Engineering Student @ **Instituto Mauá de Tecnologia (IMT), Brazil**  
+🔬 Research Member in Data Science & AI @ **NSEE**  
+📊 Passionate about **Data Science, Machine Learning & AI** | Transforming data into intelligent solutions & real-world value
 
 ---
 
-### 🛠️ Tools & Frameworks
+## 👨‍💻 About Me
+
+I'm a **Computer Engineering student** with a decade of international academic experience (Brazil-USA dual diploma), now channeling my passion into **AI research and data-driven innovation**.
+
+As a **Research Member in Data Science and AI at NSEE**, I focus on exploring cutting-edge methodologies and applying machine learning to solve complex, real-world problems. My work spans healthcare, astronomy, and automation, with a strong foundation in algorithms, data structures, and full-stack ML pipelines.
+
+- 🤖 **Core Interests:** ML, LLMs, RAG architectures, and AI automation.
+- 🏆 **Awards:** SKA Hackathon Winner, Best HUBS Integrated Project.
+- 🌱 **Learning:** Advanced ML, Deep Learning and AI agent systems.
+- 📫 **Let's Connect:** Always open to discussing research, collaboration, or new opportunities in AI and Data Science.
+
+---
+
+### 🛠️ Technical Skills
 
 #### Core Languages
 <p align="left">
@@ -43,11 +56,11 @@
   <img src="https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="Database" />
 </p>
 
-
 ---
 
 ## 📂 Featured Projects
 
+### 🔬 Research & Data Science
 🔹 **Healthcare Data Science (FOSP/SUS project)**  
 - Analyzed over **1M patient records** from Brazil’s public health system  
 - Applied **XGBoost + Optuna optimization** for survival analysis  
@@ -58,52 +71,38 @@
 - Applied **XGBoost, K-Means, RandomForest**, tuned with Pandas/NumPy  
 - Work led to an **international publication under review**  
 
+### 🤖 AI & Automation
 🔹 **AI Lab Assistant (LLM-based Chatbot)**  
 - Developed a **LLaMA-powered chatbot** to represent a research lab  
 - Enhanced engagement and accessibility through **natural language Q&A**  
-- Integrated **LangChain + FastAPI** for automation  
-
----
-
-## 📊 Data Analysis Projects
+- Integrated **LangChain + FastAPI** for automation
+  
+### 📊 Data Analysis
 
 🔹 **Hospital Ward Analysis**  
 - Processed **hospital ward records** to uncover patterns in patient flow, bed utilization, and resource optimization  
 - Designed **custom categorization algorithms** to improve data quality and operational decision-making  
 
-🔹 **Other Exploratory Projects**  
-- Data visualization & insights generation with **Python (Pandas, NumPy, Matplotlib, Plotly)**  
-- Applied **ML algorithms** for classification and clustering in different domains  
-
-> 🔒 *Most of my professional and research projects are private due to institutional restrictions. However, some repositories are publicly available to showcase my work and technical approach.*  
-
----
-
-## 📄 About Me
-
-I am a **Computer Engineering student with international background** (10 years studying abroad, Brazil-USA dual diploma).  
-I bring hands-on experience in **AI, ML, and Data Science projects** applied to **healthcare, astronomy, and real-world automation**.  
-
-- Strong foundation in **algorithms and data structures** (Java, C & Python)  
-- Practical experience with **ML pipelines, LLMs, RAG architectures**  
-- Recognized with awards: 🏆 **SKA Hackathon Winner** & **Best HUBS Integrated Project**  
-
-👉 [Click here to view my full resume (PDF)]([https://drive.google.com/](https://drive.google.com/file/d/1iIfEUVCKTngI7VWAjaGzIFusnZ5SFaL-/view?usp=sharing))
+> 🔒 *Note: Many professional and research projects are private due to institutional restrictions. Select repositories are public to showcase my technical approach.*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrowilian&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowilian&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrowilian&show_icons=true&theme=tokyonight" alt="Pedro's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowilian&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/pedrowilian)  
 📧 **pedrowbevilacqua@gmail.com**  
-🌐 [Portfolio / Projects (coming soon)](https://github.com/pedrowilian)  
+📄 [My Resume (PDF)](https://drive.google.com/file/d/1iIfEUVCKTngI7VWAjaGzIFusnZ5SFaL-/view?usp=sharing)  
+🌐 *Portfolio (Coming Soon)*
+
 ---
 
-✨ Thanks for visiting my profile! Open to learning, researching, and collaborating on projects in **Data Science, AI, and Machine Learning**.
+**Thanks for visiting!** I'm always open to collaborating on innovative projects in **Data Science, AI, and Machine Learning**. 😊
