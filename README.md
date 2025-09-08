@@ -1,93 +1,96 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF">Pedro Wilian</span></h1>
+<h1 align="center">🚀 Pedro Wilian</h1>
 
 <p align="center">
-  🎓 Computer Engineering Student @ <b>Instituto Mauá de Tecnologia (IMT), Brazil</b><br>
-  🔬 AI & Data Science Researcher @ <b>NSEE</b><br>
-  💡 Turning <b>data into intelligence</b> with ML, LLMs & AI Agents
+  <b>Computer Engineering Student @ IMT | AI & Data Science Researcher @ NSEE</b> <br>
+  <i>Turning Data into Intelligent Systems: ML • LLMs • AI Agents • Automation</i>
 </p>
 
 ---
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Researcher+%7C+Data+Scientist;Machine+Learning+%7C+LLMs+%7C+AI+Agents;Turning+data+into+real-world+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Researcher+%7C+Data+Scientist;10%2B+Years+Academic+Experience+(Brazil+%E2%9C%8D%EF%B8%8F+USA);Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Building+AI+Agents+%26+Data-Driven+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 👨‍💻 About Me  
 
-I'm a **Computer Engineering student** with an **international academic background (Brazil–USA)** and a strong passion for **AI research, innovation, and automation**.  
+I'm a **Computer Engineering student** with an **international academic background (Brazil–USA)** and a passion for **AI research, large-scale data, and intelligent automation**.  
 
-Currently, I’m a **Researcher at NSEE**, applying ML & AI to fields like **healthcare, astronomy, and intelligent systems**.  
+Currently working as a **Research Member at NSEE**, where I apply **ML, AI and advanced data pipelines** in domains like **healthcare, astronomy, and intelligent systems**.  
 
-- 🤖 **Core Interests:** ML, LLMs, RAG architectures, AI Agents  
+- 🔬 **Research Areas:** Machine Learning, LLMs, RAG, AI Agents  
 - 🏆 **Achievements:** SKA Hackathon Winner | Best HUBS Integrated Project  
-- 🌱 **Learning:** Advanced Deep Learning, AI Agents & scalable ML systems  
-- 🤝 Always open for **research & collaboration** in AI/Data Science  
+- 📚 **Currently mastering:** Deep Learning, Multi-Agent Systems & scalable ML pipelines  
+- 🤝 **Collaboration:** Always open for research, startups & applied AI projects  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-#### 🧑‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🤖 AI & ML  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6B40C1?style=for-the-badge&logo=keras&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-0081A5?style=for-the-badge&logo=authelia&logoColor=white)
-
-#### 📚 ML Libraries  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### ⚙️ Tools & DevOps  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Database](https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,postgresql,mysql,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,git,docker,linux,fastapi,vscode,github&perline=9" />
+</p>
 
 ---
 
-## 🌟 Featured Projects  
+## 📂 Featured Projects  
 
 ### 🔬 **Research & Data Science**  
-- 🏥 **Healthcare Data Science (FOSP/SUS project)** → analyzed **1M+ patient records**, predictive models with **XGBoost + Optuna**  
+- 🏥 **Healthcare ML (FOSP/SUS project)** → survival analysis on **1M+ patient records** with **XGBoost + Optuna**  
 - 🌌 **Astronomical Data (FAPESP/IMT Research Grant)** → ML pipelines for **stellar variability classification** | publication under review  
 
 ### 🤖 **AI & Automation**  
 - 💬 **AI Lab Assistant** → LLaMA-powered chatbot with **LangChain + FastAPI**  
+- ⚡ **AI Agents** → Prototypes for **autonomous task execution & automation**  
 
-### 📊 **Data Analysis**  
+### 📊 **Data Analytics**  
 - 🏨 **Hospital Ward Analysis** → optimized patient flow & resources with custom algorithms  
 
-> 🔒 Some research projects are private; selected repos highlight my **technical approach**.  
+> 🔒 Some research projects are private; public repos highlight my **technical methodology**.  
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrowilian&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrowilian&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrowilian&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=pedrowilian&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowilian&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowilian&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<!-- TROPHY -->
+---
+
+## 🏆 GitHub Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrowilian&theme=onedark&margin-w=15&margin-h=15&row=1&column=6" alt="trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrowilian&theme=tokyonight&margin-w=15&margin-h=15&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pedrowilian/pedrowilian/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 📊 Extra Analytics  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrowilian&theme=tokyonight" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrowilian&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrowilian&theme=tokyonight" height="150" />
 </p>
 
 ---
@@ -108,4 +111,4 @@ Currently, I’m a **Researcher at NSEE**, applying ML & AI to fields like **hea
 
 ---
 
-<p align="center">✨ Thanks for visiting! Excited to collaborate on innovative projects in <b>AI, ML & Data Science</b>. 🚀</p>
+<p align="center">⚡ “Data is the new oil, but AI is the refinery.”<br>Let’s build the future of intelligence together.</p>
