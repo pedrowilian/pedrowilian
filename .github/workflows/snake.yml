@@ -1,28 +1,48 @@
 name: Generate Snake Animation
 
+# triggers: schedule (daily), manual, and push to main
 on:
-  schedule: # roda diariamente
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: '0 0 * * *'      # daily at 00:00 UTC — change if you want
   workflow_dispatch:
+  push:
+    branches:
+      - main                # replace with your default branch if different
+
+# Required so the workflow can push generated files back to the repo
+permissions:
+  contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: actions/checkout@v4
         with:
-          github_user_name: pedrowilian
-          outputs: dist/github-contribution-grid-snake.svg
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          persist-credentials: true
+          fetch-depth: 0
 
-      - name: Push generated files
+      - name: Generate snake (svg + gif)
+        uses: Platane/snk@v3
+        id: snk
+        with:
+          # required: will use the repository owner automatically
+          github_user_name: ${{ github.repository_owner }}
+
+          # single 'outputs' field (multiline). do NOT repeat this key.
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Deploy generated images to 'output' branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
+          commit_message: 'chore: update github-snake animations'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
