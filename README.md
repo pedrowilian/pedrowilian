@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">🚀 Pedro Wilian</h1>
+<h1 align="center">Pedro Wilian</h1>
 
 <p align="center">
   <b>Computer Engineering Student @ IMT | AI & Data Science Researcher @ NSEE</b> <br>
