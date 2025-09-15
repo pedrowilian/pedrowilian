@@ -10,7 +10,7 @@
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Researcher+%7C+Data+Scientist;10%2B+Years+Academic+Experience+(Brazil+%E2%9C%8D%EF%B8%8F+USA);Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Building+AI+Agents+%26+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Researcher+%7C+Data+Scientist;10%2B+Years+International+Academic+Experience+%F0%9F%8C%8D;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Building+AI+Agents+%26+Data-Driven+Solutions" alt="Typing SVG" />
 </p>
 
 ---
