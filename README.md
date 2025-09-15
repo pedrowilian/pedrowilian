@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me  
 
-I'm a **Computer Engineering student** with an **international academic background (Brazil–USA)** and a passion for **AI research, large-scale data, and intelligent automation**.  
+I'm a **Computer Engineering student** with an **international academic background** and a passion for **AI research, large-scale data, and intelligent automation**.  
 
 Currently working as a **Research Member at NSEE**, where I apply **ML, AI and advanced data pipelines** in domains like **healthcare, astronomy, and intelligent systems**.  
 
